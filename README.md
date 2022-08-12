@@ -5,7 +5,7 @@
 
 1. Fork, clone the repo to your environment
 1. Install project dependencies via `lein deps`
-1. Install Chrome WebDriver - see [Etaoin doc](https://cljdoc.org/d/etaoin/etaoin/1.0.38/doc/user-guide#install-webdrivers)
+1. Install Chrome & Chrome WebDriver - see [Etaoin doc](https://cljdoc.org/d/etaoin/etaoin/1.0.38/doc/user-guide#install-webdrivers)
 
 ## Usage
 
